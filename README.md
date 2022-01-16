@@ -1,8 +1,5 @@
 # SunStone
 
-# Saveo
-
-
 ![Green and Cream Modern Sales Marketing Presentation](https://user-images.githubusercontent.com/86509887/149654034-8d643d45-295d-4824-b0d8-67c75d75e3f8.jpg)
 
 
