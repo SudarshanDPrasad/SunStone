@@ -8,11 +8,10 @@
 
 # Demo Link 
 
+[![SunStone](https://user-images.githubusercontent.com/86509887/149654216-db60a1a8-948a-4d92-b4df-468749a381f3.jpg](https://drive.google.com/file/d/1aRknpqB4kLDcjg7ASCRB48a0do2rJSVh/view?usp=sharing)
 
-[https://drive.google.com/file/d/1aRknpqB4kLDcjg7ASCRB48a0do2rJSVh/view?usp=sharing]
 
-
-Things we used while making this application
+# Things we used while making this application
 
 * GitHub
 * Recycler View
